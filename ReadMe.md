@@ -1,0 +1,1 @@
+### This is my first attempt at learning Go Language. I followed a tutorial to familiarize myself with Go syntax and code structure after walking through the provided tutorials on go.dev
